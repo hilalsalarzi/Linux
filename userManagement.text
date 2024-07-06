@@ -1,0 +1,19 @@
+User Management
+
+Topics 
+__________________
+1. useradd 
+2. userdel
+3. usermod
+4. groupadd
+5. groupdel
+__________________
+
+Files 
+_________________
+1. /etc/passwd
+2. /etc/group
+3. /etc/shadow
+_________________
+
+
