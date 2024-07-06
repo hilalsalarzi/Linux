@@ -16,4 +16,10 @@ _________________
 3. /etc/shadow
 _________________
 
+cmd: useradd hilal
+des: it will not create directory for user bydefault
+cmd: useradd -g development -s /bin/bash -c "for developer" -m -d /home/development legend
+des: This will set user's default group to development and make the directory development and user >
 
+
+.
